@@ -1,1 +1,1 @@
-Test Python project with git
+git test not fun
